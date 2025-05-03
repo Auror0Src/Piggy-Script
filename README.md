@@ -2,7 +2,9 @@
 Advanced piggy script [Beta] Alot of features like item giver and item user are unfinished.
 
 ## How to run
-
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Auror0Src/Piggy-Script/refs/heads/main/PiggyStableObf.lua"))()
+```
 
 # Features
 
