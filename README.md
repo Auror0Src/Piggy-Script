@@ -4,7 +4,7 @@ Advanced piggy script [Beta] Alot of features like item giver and item user are 
 ## How to run
 Put this:
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Auror0Src/Piggy-Script/refs/heads/main/PiggyStableObf.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Auror0Src/Piggy-Script/main/PiggyStableObf.lua"))()
 ```
 in your executor inject/attach into the game and youre done.
 
